@@ -3,8 +3,7 @@
 
 // Saludo inicial
 void hola(){ 
-    printf("Alumno: Alberto Ludeña Peirado\n");
-    printf("Email: alberto.ludena@goumh.umh.es\n\n");
+
     printf("EJERCICIO 1: HECHO \n");
     printf("EJERCICIO 2: HECHO \n");
     printf("EJERCICIO 3: HECHO \n");
